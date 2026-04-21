@@ -137,15 +137,6 @@ A passionate software engineer who ...
 
 ---
 
-## Certifications & Awards
-
-<!-- Remove this section if not applicable -->
-
-- **Certification Name** - Issuing Organization (Year)
-- **Award Name** - Description (Year)
-
----
-
 <div align="center">
 
 *Thank you for visiting my profile!*
