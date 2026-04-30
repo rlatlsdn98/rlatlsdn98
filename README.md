@@ -31,7 +31,6 @@ A passionate software engineer who ...
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Frontend**
 
@@ -70,41 +69,30 @@ A passionate software engineer who ...
 
 ## Projects
 
-### Project Name 1
-> **One-line description of what it does**
+### SETO
+> **지능형 설비 관리 및 숙련도 기반 성과 관리 플랫폼**
 
 <!-- ![Demo](link-to-screenshot-or-gif) -->
 
-- **Tech**: `React` `Node.js` `MongoDB`
-- **Role**: Full-stack development
+- **Tech**: `Spring Boot` `Vue.js` `AWS` `Docker`
+- **Role**: Backend / Infra
 - **Highlights**:
-  - Key achievement or feature 1
-  - Key achievement or feature 2
-- **Links**: [Repo](https://github.com/rlatlsdn98/repo-name) | [Live Demo](https://demo-link.com)
+  - Admin(관리자) 모듈 개발
+  - JWT + Spring Security 기반 인증/인가 구현
+  - AWS 배포 환경 구축 (S3 — Frontend / EKS — Backend)
+  - GitHub Actions 기반 CI/CD 파이프라인 구성 (EKS manifest 자동 업데이트)
+- **Links**: [Repo](https://github.com/20251029-hanhwa-swcamp-22th/be22-final-team3-project)
 
 ---
 
-### Project Name 2
-> **One-line description of what it does**
+### GrowthChild
+> **소아과 원장님들을 위한 영아 환자 진료이력 기록 및 추이 확인용 올인원 웹 서비스**
 
-- **Tech**: `Spring Boot` `MySQL` `Docker`
-- **Role**: Backend development
-- **Highlights**:
-  - Key achievement or feature 1
-  - Key achievement or feature 2
-- **Links**: [Repo](https://github.com/rlatlsdn98/repo-name)
-
----
-
-### Project Name 3
-> **One-line description of what it does**
-
-- **Tech**: `Python` `FastAPI` `PostgreSQL`
+- **Tech**: `Flask` `Python` `HTML/JS/CSS` `MariaDB` `AWS`
 - **Role**: Full-stack development
 - **Highlights**:
-  - Key achievement or feature 1
-  - Key achievement or feature 2
-- **Links**: [Repo](https://github.com/rlatlsdn98/repo-name)
+  - <!-- 추가 예정 -->
+- **Links**: [Live](https://growthchild.net/)
 
 ---
 
@@ -112,16 +100,17 @@ A passionate software engineer who ...
 
 | Period | Role | Company | Description |
 |--------|------|---------|-------------|
-| 2024 - Present | Software Engineer | Company Name | Brief description of responsibilities |
-| 2023 - 2024 | Intern | Company Name | Brief description of responsibilities |
+| 2025.10&nbsp;~&nbsp;2026.04 | Backend Trainee | 한화시스템 비욘드 22기 | <!-- 설명 추가 --> |
+| 2025.07&nbsp;~&nbsp;2025.12 | Full-stack Developer | 국가지원 스타트업 (GrowthChild) | <!-- 설명 추가 --> |
 
 ---
 
 ## Education
 
-| Period | Degree | Institution |
-|--------|--------|-------------|
-| 2020 - 2024 | B.S. in Computer Science | University Name |
+| Period                      | Degree | Institution |
+|-----------------------------|--------|-------------|
+| 2025.10&nbsp;~&nbsp;2026.04 | 백엔드 과정 수료 | 한화시스템 비욘드 22기 |
+| 2017.03 ~ 2025.07           | 융합소프트웨어학과 응용소프트웨어 전공 | 명지대학교 ICT학부 |
 
 ---
 
