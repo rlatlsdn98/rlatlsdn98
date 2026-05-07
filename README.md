@@ -14,11 +14,8 @@
 
 ## About Me
 
-<!-- Write 2-3 sentences introducing yourself, your background, and what drives you. -->
-
-```
-A passionate software engineer who ...
-```
+명지대학교 융합소프트웨어학과를 졸업하고, 현재 한화시스템 비욘드 22기 백엔드 부트캠프를 수료한 백엔드 개발자입니다.
+국가지원 스타트업에서 웹 서비스를 처음부터 개발·배포한 경험을 통해 도메인 이해와 소통의 중요성을 체감했고, 이후 Spring Boot, Docker, Kubernetes 등 실무 기술을 익히며 안정적이고 확장 가능한 시스템을 만드는 개발자로 성장하고 있습니다.
 
 ---
 
