@@ -92,8 +92,12 @@ A passionate software engineer who ...
 - **Tech**: `Flask` `Python` `HTML/JS/CSS` `MariaDB` `AWS`
 - **Role**: Full-stack development
 - **Highlights**:
-  - <!-- 추가 예정 -->
+  - 프론트엔드 / 백엔드 기능 개발
+  - AWS 배포 환경 구축
 - **Links**: [Live](https://growthchild.net/)
+- **AWS Architecture**:
+
+  ![AWS Architecture](img/growthchild-aws.png)
 
 ---
 
