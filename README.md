@@ -72,8 +72,6 @@ A passionate software engineer who ...
 ### SETO
 > **지능형 설비 관리 및 숙련도 기반 성과 관리 플랫폼**
 
-<!-- ![Demo](link-to-screenshot-or-gif) -->
-
 - **Tech**: `Spring Boot` `Vue.js` `AWS` `Docker`
 - **Role**: Backend / Infra
 - **Highlights**:
@@ -82,6 +80,9 @@ A passionate software engineer who ...
   - AWS 배포 환경 구축 (S3 — Frontend / EKS — Backend)
   - GitHub Actions 기반 CI/CD 파이프라인 구성 (EKS manifest 자동 업데이트)
 - **Links**: [Repo](https://github.com/20251029-hanhwa-swcamp-22th/be22-final-team3-project)
+- **AWS Architecture**:
+
+  ![AWS Architecture](img/seto-aws.png)
 
 ---
 
